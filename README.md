@@ -9,10 +9,10 @@ I am equally interested in theoretical mathematics.
 ## Education
 
 - **University of Belgrade — Faculty of Electrical Engineering (ETF)**
-  - Electronics and Digital Systems, 60ECTS, average grade: 10.0
+  - Electronics and Digital Systems; 60ECTS, average grade: 10.0
 
 - **University of Belgrade — Faculty of Mathematics (MATF)**
-  - Theoretical Mathematics and Applications, 27ECTS, average grade: 10.0
+  - Theoretical Mathematics and Applications; 27ECTS, average grade: 10.0
 
 ## Interests
 
