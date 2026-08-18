@@ -24,15 +24,9 @@ I am equally interested in theoretical mathematics.
 
 ## Projects
 
-### 8-bit Programmable CPU
+### **[8-bit Programmable CPU](https://github.com/UrkeBurke/8bit-cpu)**
 
-Designed and implemented an 8-bit programmable CPU from scratch in Logisim-evolution. The CPU's major components were built directly from basic logic gates, including the ALU, registers, control unit, program counter, instruction register, and datapath.
-
-The processor features a custom instruction set, 8-bit datapaths, memory addressing, RAM interfacing, conditional branching, and machine-code programmability.
-
-A custom RAM implementation was also built from logic gates; the optimized Logisim-evolution RAM component was used in the final simulation for performance reasons.
-
-The CPU supports programs written directly in its machine code, with example programs for multiplication, Fibonacci numbers, and array summation.
+Designed and implemented a programmable 8-bit CPU from basic digital logic components in Logisim Evolution, including a custom datapath, ALU, control unit, instruction set, and memory interface.
 
 ---
 
