@@ -24,7 +24,7 @@ I am equally interested in theoretical mathematics.
 
 ## Projects
 
-### **[Academic work]()**
+### **[Academic work](https://github.com/UrkeBurke/academic-work)**
 
 Unpublished academic work.
 
