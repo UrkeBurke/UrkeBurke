@@ -24,6 +24,10 @@ I am equally interested in theoretical mathematics.
 
 ## Projects
 
+### **[Academic work]()**
+
+Unpublished academic work.
+
 ### **[8-bit Programmable CPU](https://github.com/UrkeBurke/8bit-cpu)**
 
 Designed and implemented a programmable 8-bit CPU from basic digital logic components in Logisim Evolution, including a custom datapath, ALU, control unit, instruction set, and memory interface.
